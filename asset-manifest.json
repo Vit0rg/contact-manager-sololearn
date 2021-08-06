@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contact-manager-sololearn/static/css/main.7943a594.chunk.css",
+    "main.js": "/contact-manager-sololearn/static/js/main.49d81b21.chunk.js",
+    "main.js.map": "/contact-manager-sololearn/static/js/main.49d81b21.chunk.js.map",
+    "runtime-main.js": "/contact-manager-sololearn/static/js/runtime-main.247107aa.js",
+    "runtime-main.js.map": "/contact-manager-sololearn/static/js/runtime-main.247107aa.js.map",
+    "static/js/2.924cc3d8.chunk.js": "/contact-manager-sololearn/static/js/2.924cc3d8.chunk.js",
+    "static/js/2.924cc3d8.chunk.js.map": "/contact-manager-sololearn/static/js/2.924cc3d8.chunk.js.map",
+    "static/js/3.ef9347aa.chunk.js": "/contact-manager-sololearn/static/js/3.ef9347aa.chunk.js",
+    "static/js/3.ef9347aa.chunk.js.map": "/contact-manager-sololearn/static/js/3.ef9347aa.chunk.js.map",
+    "index.html": "/contact-manager-sololearn/index.html",
+    "static/css/main.7943a594.chunk.css.map": "/contact-manager-sololearn/static/css/main.7943a594.chunk.css.map",
+    "static/js/2.924cc3d8.chunk.js.LICENSE.txt": "/contact-manager-sololearn/static/js/2.924cc3d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.247107aa.js",
+    "static/js/2.924cc3d8.chunk.js",
+    "static/css/main.7943a594.chunk.css",
+    "static/js/main.49d81b21.chunk.js"
+  ]
+}
